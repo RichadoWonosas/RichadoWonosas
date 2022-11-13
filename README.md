@@ -1,7 +1,7 @@
 ## Hello World! This is RichadoWonosas!👋
 
 ### About me
-- Undergraduate, studying in BUAA
+- Postgraduate, studying in University of Southampton
 - Interested in cryptology, programming and game designing
 - Learning C, C++, Unity3D, Java, JavaScript, Python, etc.
 - Like anime and games, especially music games (I'd prefer to call them **Rhythm Action Games (RAG)**)
