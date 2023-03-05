@@ -7,9 +7,8 @@
 - Like anime and games, especially music games (I'd prefer to call them **Rhythm Action Games (RAG)**)
 
 ### Plans
-- Maintain the songlist editor occasionally
-  - Current plan: make it compatible for Android 11
-- Design a symmertric encryption scheme (RWSE) and a cryptographic hash function (RWSH/RWXH) 
+- [x] Design a symmertric encryption scheme (RWSE - Now is RWSE2!)
+- [ ] Design a cryptographic hash function (RWSH/RWXH) 
 
 ### Contact me
 - English, 中文, 日本語OK
