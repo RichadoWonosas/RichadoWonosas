@@ -5,10 +5,11 @@
 - Interested in cryptography, programming and game designing
 - Learning C, C++, Unity3D, Java, JavaScript, Python, etc.
 - Like anime and games, especially music games (I'd prefer to call them **Rhythm Action Games (RAG)**)
+- My main page will be moved to [yadora.moe](https://yadora.moe) in order to provide more interactions; The pure front-end version of some pages will remain on [GitHub Pages](https://richadowonosas.github.io).
 
 ### Plans
 - [x] Design a symmertric encryption scheme (RWSE - Now is RWSE2!)
-- [ ] Design a cryptographic hash function (RWSH/RWXH) (actually done, but did not post as repo)
+- [ ] Design a cryptographic hash function (RWSH/RWXH) (actually done, but did not post as repo; Also some performance issues are not currently solved)
 
 ### Contact me
 - English, 中文, 日本語OK
