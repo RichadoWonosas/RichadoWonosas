@@ -10,6 +10,7 @@
 ### Plans
 - [x] Design a symmertric encryption scheme (RWSE - Now is RWSE2!)
 - [ ] Design a cryptographic hash function (RWSH/RWXH) (actually done, but did not post as repo; Also some performance issues are not currently solved)
+- [ ] Make my first front-end minigame
 
 ### Contact me
 - English, 中文, 日本語OK
