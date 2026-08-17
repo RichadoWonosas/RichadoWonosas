@@ -10,7 +10,7 @@
 - With AI coding ability rising, some tools is and will be made by AI to improve my experience on some electronic games, as well as my experience in everyday living.
 
 ### Plans
-- [ ] Design a symmertric encryption scheme (RWSE - Now is RWSE2!) (RWSE2 has been proven to have several severe security issues after some simple cryptanalysis by AI, thus it cannot provide the same security it promised, that's why I unchecked this. RWSε, a re-designed scheme, will be considered.)
+- [ ] Design a symmertric encryption scheme (RWSE - Now is RWSE2!) (RWSE2 has been proven to have several severe security issues after some simple cryptanalysis by AI, thus it cannot provide the security it promised, that's why I unchecked this. RWSε, a re-designed scheme, will be considered.)
 - [ ] Design a cryptographic hash function (RWSH/RWXH) (actually done, but did not post as repo; Also some performance issues are not currently solved)
 - [ ] Make my first front-end minigame (thanks to AI, a tool for hosting a song title guessing game Caige is already done; but it could not be called a "game" purely on front-end pages.)
 
